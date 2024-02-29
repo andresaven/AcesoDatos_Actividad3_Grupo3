@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<articulo>
+    <id>202</id>
+    <nombre>Camiseta</nombre>
+    <descripcion>Camiseta de algodón</descripcion>
+    <stock>50</stock>
+    <precio>7.99</precio>
+</articulo>

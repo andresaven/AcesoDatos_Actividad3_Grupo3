@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<articulo>
+    <id>101</id>
+    <nombre>Libro</nombre>
+    <descripcion>Historia de la Tierra</descripcion>
+    <stock>20</stock>
+    <precio>10.99</precio>
+</articulo>
