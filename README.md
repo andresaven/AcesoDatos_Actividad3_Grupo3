@@ -42,6 +42,8 @@ Mostrar todos los libros dados de alta, y en la librería en la que están.
 
 ![Imagen](imgReadme/Imagen1-2.png)
 
+![Imagen](imgReadme/Imagen1-3.png)
+
 
 
 ## Requerimiento 2. Actividad3_Alberto_R2_JusticeLeagueFinal
@@ -65,6 +67,8 @@ Debilidad tiene una relación de muchos a muchos con Superheroe. N:M
 ![Imagen](imgReadme/Imagen2-1.png)
 
 ![Imagen](imgReadme/Imagen2-2.png)
+
+![Imagen](imgReadme/Imagen2-3.png)
 
 ## Requerimiento 3. Actividad3_Alberto_R3
 
