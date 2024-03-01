@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<articulo id="2">
+    <nombre>Marvel Spiderman 2</nombre>
+    <descripcion>Videojuego Ps5</descripcion>
+    <stock>100</stock>
+    <precio>59.95</precio>
+</articulo>

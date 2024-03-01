@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<articulo id="3">
+    <nombre>Starfield</nombre>
+    <descripcion>Videojuego Xbox</descripcion>
+    <stock>77</stock>
+    <precio>50.0</precio>
+</articulo>

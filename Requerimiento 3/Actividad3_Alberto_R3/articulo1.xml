@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<articulo id="1">
+    <nombre>Fallout</nombre>
+    <descripcion>Videojuego Ps4</descripcion>
+    <stock>4</stock>
+    <precio>9.0</precio>
+</articulo>
